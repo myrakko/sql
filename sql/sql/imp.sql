@@ -1,0 +1,3 @@
+.separator ,
+.mode csv
+.import 
