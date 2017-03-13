@@ -15,5 +15,5 @@ fi
 
 usage
 
-sql.sh sql/my.sql
+sql.sh sql/que.sql
 
