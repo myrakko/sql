@@ -1,1 +1,1 @@
-git remote add origin remote git@github.com:myrrako/sql.git
+git remote add origin remote git@github.com:myrakko/sql.git
