@@ -3,7 +3,7 @@
 sqlite3 scripts
 
 ## read sql
-### cmd/sql.sh
+### sql.sh
 ```
 if [ -z "$1" ];then
 echo "usage"
