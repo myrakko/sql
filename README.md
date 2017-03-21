@@ -17,3 +17,8 @@ usage
 
 sql.sh sql/que.sql
 
+
+## update sql
+
+update tbl set type="mytype" where rowid=425;
+
