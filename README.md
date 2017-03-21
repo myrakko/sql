@@ -3,8 +3,7 @@
 sqlite3 scripts
 
 ## read sql
-
-### sql.sh
+### cmd/sql.sh
 ```
 if [ -z "$1" ];then
 echo "usage"
@@ -19,6 +18,7 @@ sql.sh sql/que.sql
 
 
 ## update sql
-
+### sql/up.sql
+```
 update tbl set type="mytype" where rowid=425;
-
+```
